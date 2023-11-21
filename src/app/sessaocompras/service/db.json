@@ -1,0 +1,11 @@
+{
+    "produtos":[
+        {
+            "img":"../../assets/arroz.jpg",
+            "nome": "Arroz soltinho 1kg",
+            "descricao": "Arroz de qualidade branquinho e soltinho que vai agradar seu paladar",
+            "id": 1,
+            "valor" : 30
+        }
+    ]
+}
